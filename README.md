@@ -1,1 +1,1 @@
-## Some of the trajectory analysis codes written in grad school. 
+## Some of the trajectory analysis tools written in grad school
