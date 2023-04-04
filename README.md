@@ -1,1 +1,1 @@
-## Some of the trajectory analysis tools written in grad school
+## Trajectory Analysis Tools For Analyzing Path-integral and Classical Nuclei Simulations
